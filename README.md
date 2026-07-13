@@ -39,18 +39,6 @@ Para executar o projeto localmente, lembre-se de rodar o comando `npm install` (
 <br>
 
 
-## 👥 Integrantes do Grupo
-
-- Fernanda Venancio Travassos  
-- Maria Eduarda de Brito Oliveira 
-- Samuel de Andrade Vasconcelos
-- Sarah Hellen Nascimento
-- Vitória Marques Freire 
-
----
-<br>
-
-
 ## 💡 Descrição da Ideia do Sistema
 
 O **PetzMatch** é uma plataforma web que conecta tutores de animais de estimação interessados em cruzamentos responsáveis, especialmente para animais de raça pura. O sistema oferece um ambiente confiável e verificado, eliminando a dependência de grupos não regulamentados em redes sociais.
